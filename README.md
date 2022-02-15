@@ -2,7 +2,7 @@
 
 ## I'm a self-taught person who loves developing himself !!
 
-- 🔭 I'm a computer engineering student in Gebze Technical University.
+- 🔭 Computer engineering student in Gebze Technical University.
 - 🥅 2022 Goals: Learning new technologies and programming languages.
 - ⚡ A fact about me: I love solving maths and algorithm problems.
 

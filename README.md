@@ -1,6 +1,6 @@
 # Hi there, I'm Emre 👋 
 
-## I'm a self-taught person who loves developing himself !!
+## I'm a self-taught person who loves improving himself !!
 
 - 🔭 Computer engineering student in Gebze Technical University.
 - 🥅 2022 Goals: Learning new technologies and programming languages.

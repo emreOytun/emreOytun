@@ -1,4 +1,4 @@
-# <b> Emre Oytun -- Software Developer
+# <b> Emre Oytun | Software Developer
 
 - ⚡ Computer engineering student in Gebze Technical University.
 - ⚡ Always a learner !

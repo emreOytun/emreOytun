@@ -1,5 +1,6 @@
 # <b> Emre Oytun | Software Developer
 
+- ⚡ I'm currently working as **Java Backend Developer** ⚡
 - ⚡ Always a learner ⚡
 - ⚡ A fact about me: I love solving maths and algorithm problems ⚡
 

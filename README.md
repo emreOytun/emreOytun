@@ -6,7 +6,7 @@
 
 ### **Connect with me:**
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/emreoytun)
   
 ### **Languages and Tools:**
 

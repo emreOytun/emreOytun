@@ -4,7 +4,7 @@
 - ⚡ Always a learner ⚡
 - ⚡ A fact about me: I love solving maths and algorithm problems ⚡
 
-### **Connect with me:**
+### **Contact:**
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/emreoytun)
   

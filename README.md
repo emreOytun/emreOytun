@@ -1,4 +1,4 @@
-# <b> Emre Oytun | Software Developer
+# <b> Emre Oytun | Software Engineer
 
 - ⚡ I'm currently working as **Java Backend Developer** ⚡
 - ⚡ Always a learner ⚡
